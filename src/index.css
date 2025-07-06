@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  max-width: 430px;
+  margin: 0 auto;
+  background: #eaf6ff;
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
